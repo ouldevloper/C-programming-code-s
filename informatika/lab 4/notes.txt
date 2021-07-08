@@ -1,0 +1,2 @@
+sizeof(arr)/sizeof(arr[0]) does not work
+NULL does not work ((void *)0) too
